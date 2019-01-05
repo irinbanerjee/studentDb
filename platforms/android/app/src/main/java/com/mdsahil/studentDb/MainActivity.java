@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.mdsahil.mywallet;
+package com.mdsahil.studentDb;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

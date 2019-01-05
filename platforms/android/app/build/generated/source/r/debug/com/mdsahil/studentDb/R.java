@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.mdsahil.mywallet;
+package com.mdsahil.studentDb;
 
 public final class R {
   public static final class drawable {
