@@ -1,0 +1,15 @@
+.databaseButtons {
+    background: black;
+    color: white;
+    float: left;
+    padding: 5vw;
+    margin: 5vw;
+    border-radius: 3vw;
+    border: 0;
+}
+.databaseButtons:active {
+    background: rgb(80, 80, 80);
+}
+.databaseButtons:focus {
+    outline: 0;
+}
