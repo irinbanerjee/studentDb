@@ -13,3 +13,8 @@
 .databaseButtons:focus {
     outline: 0;
 }
+#bookDbInsertForm {
+    float: left;
+    width: 100vw;
+    display: none;
+}

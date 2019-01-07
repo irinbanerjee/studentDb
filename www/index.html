@@ -11,5 +11,20 @@
 </head>
 <body>
     <button id='bookDbInsert' class='databaseButtons'>Insert row</button>
+    <form id='bookDbInsertForm'>
+        Class nunber:<br>
+        <input type="text" name="class_number"><br>
+        Title:<br>
+        <input type="text" name="title"><br>
+        Authors:<br>
+        <input type="text" name="authors"><br>
+        Publisher:<br>
+        <input type="text" name="publisher"><br>
+        Subject:<br>
+        <input type="text" name="subject"><br>
+        Number of copies:<br>
+        <input type="number" name="no_of_copies"><br>
+        <input type="submit" class='databaseButtons' onclick="bookDbInsertSubmit()">
+    </form>
 </body>
 </html>
